@@ -1,0 +1,16 @@
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\bin\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.exe
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\bin\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.deps.json
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\bin\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.runtimeconfig.json
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\bin\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.runtimeconfig.dev.json
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\bin\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.dll
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\bin\Debug\net5.0\ref\Ejercicio práctico C# - Tercer Corte.dll
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\bin\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.pdb
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.csproj.AssemblyReference.cache
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.AssemblyInfoInputs.cache
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.AssemblyInfo.cs
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.csproj.CoreCompileInputs.cache
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.dll
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\ref\Ejercicio práctico C# - Tercer Corte.dll
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.pdb
+D:\Universidad\2-Trimestre\PROGI-SD2021 (Programacion2)\Ejercicio práctico C# - Tercer Corte\obj\Debug\net5.0\Ejercicio práctico C# - Tercer Corte.genruntimeconfig.cache
